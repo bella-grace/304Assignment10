@@ -148,6 +148,7 @@ INSERT INTO category(categoryName) VALUES ('Dogs');
 INSERT INTO category(categoryName) VALUES ('Fish');
 INSERT INTO category(categoryName) VALUES ('Birds');
 
+<<<<<<< HEAD
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Chai', 1, '10 boxes x 20 bags',18.00);
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Chang',1,'24 - 12 oz bottles',19.00);
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Aniseed Syrup',2,'12 - 550 ml bottles',10.00);
@@ -162,6 +163,22 @@ INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Ques
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Queso Manchego La Pastora',3,'10 - 500 g pkgs.',38.00);
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Tofu',4,'40 - 100 g pkgs.',23.25);
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('FlapAround Silo Bird Feeder', 4, '6oz capacity - Feed your bird with this perfect sized silo feeder', 9.50);
+=======
+INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('KittyCat Fluffy Bed (Pink)', 1, 'Designed with comfort, and style and for you and your cat. Available in only one size, 60 x 60 x 20 cm', 49.99);
+INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('KittyCat Fluffy Bed (Cream)', 1 ,'Designed with comfort, and style and for you and your cat. Available in only one size, 60 x 60 x 20 cm', 49.99);
+INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('BarkBarkWoof Life Corduroy Dog Bed (Large)', 2 ,'Soft and cozy, everything your dog needs for the perfect nap. Available in two sizes, (Large)-100 x 80 x 23 cm',120.00);
+INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('BarkBarkWoof Life Corduroy Dog Bed (Small)', 2 ,'Soft and cozy, everything your dog needs for the perfect nap. Available in two sizes, (Small)-65 x 53 x 20 cm', 100.00);
+INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('SharkFin Princess Castle Aquarium Ornament', 3 ,'Add a beautiful and colorful piece to your aquarium', 13.99);
+INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('SharkFin Mermaid Castle Aquarium Ornament', 3 ,'Add a beautiful and colorful piece to your aquarium', 13.99);
+INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('JoyBird Hooded Bird Feed Cup', 4 ,'Make meal time for your bird less messy with a hood that prevents normal messes', 9.99);
+INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Meowijuana Pawty Mix Catnip', 1 ,'A beld of 7 herbs cats go crazy for! Size 60g', 24.99);
+INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Gasp! My breath is stinky Dog Bites', 2 ,'Soft, chewy and functional to support in your canines oral health',11.99);
+INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Whisker City Cozy Inn Cat Tower (Cream)', 1 ,'Your kitty will love relaxing, scratching, and napping on this three-teir cat tower', 127.99);
+INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Whisker City Cozy Inn Cat Tower (Brown)', 1 , 'Your kitty will love relaxing, scratching, and napping on this three-teir cat tower', 127.99);
+INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('FlapAround', 3 ,'An Enriching toy and activity for your feathered friend', 16.99);
+INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('BigWaves (Starter) Hexagon Aquarium 2 Gallon', 4 ,'A perfect starting kit for you and your splashy friend!', 44.99)';
+INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Genen Shouyu', 2, '24 - 250 ml bottles', 15.50);
+>>>>>>> 6012f8b3935d94ab80f3964c0c3a864d86af4ca8
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Donut Plush Cat Bed', 1, 'This plush faux fur cat bed is here for amazing comfort for your feline friend!', 34.20);
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('PawPerfection Comfort Dog Collar', 2, 'Available in sizes XS to L', 22.00);
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('BouncyBlitz Ball', 2, '2.5in', 3.50);
