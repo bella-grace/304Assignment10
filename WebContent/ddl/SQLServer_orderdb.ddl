@@ -160,7 +160,7 @@ INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Gasp
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Whisker City Cozy Inn Cat Tower (Cream)', 1 ,'Your kitty will love relaxing, scratching, and napping on this three-teir cat tower', 127.99);
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Whisker City Cozy Inn Cat Tower (Brown)', 1 , 'Your kitty will love relaxing, scratching, and napping on this three-teir cat tower', 127.99);
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('FlapAround', 3 ,'An Enriching toy and activity for your feathered friend', 16.99);
-INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('BigWaves (Starter) Hexagon Aquarium 2 Gallon', 4 ,'A perfect starting kit for you and your splashy friend!', 44.99)';
+INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('BigWaves (Starter) Hexagon Aquarium 2 Gallon', 4 ,'A perfect starting kit for you and your splashy friend!', 44.99);
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Genen Shouyu', 2, '24 - 250 ml bottles', 15.50);
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Donut Plush Cat Bed', 1, 'This plush faux fur cat bed is here for amazing comfort for your feline friend!', 34.20);
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('PawPerfection Comfort Dog Collar', 2, 'Available in sizes XS to L', 22.00);
