@@ -148,22 +148,6 @@ INSERT INTO category(categoryName) VALUES ('Dogs');
 INSERT INTO category(categoryName) VALUES ('Fish');
 INSERT INTO category(categoryName) VALUES ('Birds');
 
-<<<<<<< HEAD
-INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Chai', 1, '10 boxes x 20 bags',18.00);
-INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Chang',1,'24 - 12 oz bottles',19.00);
-INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Aniseed Syrup',2,'12 - 550 ml bottles',10.00);
-INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Chef Anton''s Cajun Seasoning',2,'48 - 6 oz jars',22.00);
-INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Chef Anton''s Gumbo Mix',2,'36 boxes',21.35);
-INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Grandma''s Boysenberry Spread',2,'12 - 8 oz jars',25.00);
-INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Uncle Bob''s Organic Dried Pears',4,'12 - 1 lb pkgs.',30.00);
-INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Northwoods Cranberry Sauce',2,'12 - 12 oz jars',40.00);
-INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Mishi Kobe Niku',5,'18 - 500 g pkgs.',97.00);
-INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Ikura',6,'12 - 200 ml jars',31.00);
-INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Queso Cabrales',3,'1 kg pkg.',21.00);
-INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Queso Manchego La Pastora',3,'10 - 500 g pkgs.',38.00);
-INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Tofu',4,'40 - 100 g pkgs.',23.25);
-INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('FlapAround Silo Bird Feeder', 4, '6oz capacity - Feed your bird with this perfect sized silo feeder', 9.50);
-=======
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('KittyCat Fluffy Bed (Pink)', 1, 'Designed with comfort, and style and for you and your cat. Available in only one size, 60 x 60 x 20 cm', 49.99);
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('KittyCat Fluffy Bed (Cream)', 1 ,'Designed with comfort, and style and for you and your cat. Available in only one size, 60 x 60 x 20 cm', 49.99);
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('BarkBarkWoof Life Corduroy Dog Bed (Large)', 2 ,'Soft and cozy, everything your dog needs for the perfect nap. Available in two sizes, (Large)-100 x 80 x 23 cm',120.00);
@@ -178,7 +162,6 @@ INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Whis
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('FlapAround', 3 ,'An Enriching toy and activity for your feathered friend', 16.99);
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('BigWaves (Starter) Hexagon Aquarium 2 Gallon', 4 ,'A perfect starting kit for you and your splashy friend!', 44.99)';
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Genen Shouyu', 2, '24 - 250 ml bottles', 15.50);
->>>>>>> 6012f8b3935d94ab80f3964c0c3a864d86af4ca8
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Donut Plush Cat Bed', 1, 'This plush faux fur cat bed is here for amazing comfort for your feline friend!', 34.20);
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('PawPerfection Comfort Dog Collar', 2, 'Available in sizes XS to L', 22.00);
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('BouncyBlitz Ball', 2, '2.5in', 3.50);
@@ -194,6 +177,7 @@ INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Wood
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Whisker Wonders Salmon Dinner', 1, '156g: A meticulously crafted blend of ingredients that cater to your kitty's palate and well-being' , 2.50);
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('BarkBark Woof's All-Natural Dog Food', 2,'4lb worth of premium canine cuisine!', 32.50);
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Organic Flake Fish Food', 3, 'An extensive mix of organic ingredients perfect for your favourite bottom-feeding fish', 9.10);
+
 
 INSERT INTO warehouse(warehouseName) VALUES ('Main warehouse');
 INSERT INTO productInventory(productId, warehouseId, quantity, price) VALUES (1, 1, 5, 18);
