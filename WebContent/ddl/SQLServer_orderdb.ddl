@@ -161,7 +161,7 @@ INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Ikur
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Queso Cabrales',3,'1 kg pkg.',21.00);
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Queso Manchego La Pastora',3,'10 - 500 g pkgs.',38.00);
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Tofu',4,'40 - 100 g pkgs.',23.25);
-INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Genen Shouyu', 2, '24 - 250 ml bottles', 15.50);
+INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('FlapAround Silo Bird Feeder', 4, '6oz capacity - Feed your bird with this perfect sized silo feeder', 9.50);
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('Donut Plush Cat Bed', 1, 'This plush faux fur cat bed is here for amazing comfort for your feline friend!', 34.20);
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('PawPerfection Comfort Dog Collar', 2, 'Available in sizes XS to L', 22.00);
 INSERT product(productName, categoryId, productDesc, productPrice) VALUES ('BouncyBlitz Ball', 2, '2.5in', 3.50);
